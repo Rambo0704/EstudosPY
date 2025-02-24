@@ -1,0 +1,12 @@
+Atalho:
+ALT + Seta = mover linha
+Ctrl + Shift + K = Apagar linha
+Ctrl + D = procurar palavras
+Alt + Click = Multi cursos, digitar em varios
+
+Funções:
+map(lambda x: x + 1,lista)feito para aplicar uma funçao para todos os elementos da lista//aplica uma função a cada item de uma sequência
+Lambda é uma funçao para fazer operçoes com o argumentos inserido
+.append: adicionar ao final da lista
+.pop remove e retorna um item de uma lista ou dicionário
+.zip(nomes,valores): junta duas listas //usado em (for)
